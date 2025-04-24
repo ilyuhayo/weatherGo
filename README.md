@@ -1,1 +1,1 @@
-Cli project get weather by IP
+Cli project - Get weather by IP
